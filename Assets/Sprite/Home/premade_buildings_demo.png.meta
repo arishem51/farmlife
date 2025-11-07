@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: def27862d5b70f14aa883a0e495efe94
+guid: 28496fc2037f2614d996a5ec32b0d2ba
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -82,14 +82,14 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
@@ -110,34 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: colonial_0
+      name: premade_buildings_demo_0
       rect:
         serializedVersion: 2
-        x: 895
+        x: 33
         y: 352
-        width: 97
-        height: 153
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e66a97a42c680c4f8b98e8607f3f49c
-      internalID: -1888321406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: colonial_1
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 191
-        width: 64
-        height: 178
+        width: 94
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +124,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cbce8e30db49584489063568db11d7d
-      internalID: -123077886
+      spriteID: fefe0305ed9a676419dab121546dcb0a
+      internalID: -19916307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premade_buildings_demo_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 158
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf753cb95b99c184f8c392881adc5ae8
+      internalID: 1992902664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premade_buildings_demo_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 190
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9e11ce54fb7546b3c1d2a61936d6d
+      internalID: -1647971905
       vertices: []
       indices: 
       edges: []
@@ -162,8 +183,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      colonial_0: -1888321406
-      colonial_1: -123077886
+      premade_buildings_demo_0: -19916307
+      premade_buildings_demo_1: 1992902664
+      premade_buildings_demo_2: -1647971905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
