@@ -1,1 +1,19 @@
+# Unity generated files
 Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+
+# TextMesh Pro Examples (not needed for production)
+Assets/TextMesh Pro/Examples & Extras/
+
+# Visual Studio / Rider cache
+.vs/
+.idea/
+*.sln.DotSettings.user
+*.csproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
